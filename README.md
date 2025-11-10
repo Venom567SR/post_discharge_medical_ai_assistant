@@ -101,45 +101,39 @@ streamlit run app_streamlit.py
 
 UI opens at `http://localhost:8501`
 
-## 🎯 Demo Workflow (5 minutes)
+## 🎯 Demo Workflow
 
 ### Happy Path Demonstration
 
-1. **Launch UI** (`streamlit run src.ui.app_streamlit.py`)
-
-2. **Configure Keys** (Sidebar)
-   - Enter API keys (or leave empty for stub mode)
-   - Enable "Use RAG" and "Use Web Search" toggles
-
-3. **Patient Identification**
+1. **Patient Identification**
    ```
    User: "Hi, my name is John Smith"
    Assistant: [Receptionist] Searches patient database...
    Found discharge report for John Smith
    ```
 
-4. **Guided Follow-up**
+2. **Guided Follow-up**
    ```
    Assistant: I see you were discharged on [date] with [condition].
    How are you managing your medications?
    Are you experiencing any warning signs?
    ```
 
-5. **Clinical Query with RAG**
+3. **Clinical Query with RAG**
    ```
    User: "What are the early signs of kidney dysfunction?"
    Assistant: [Clinical] Based on nephrology references...
    [Shows answer with citations: Ref p.14, Ref p.27]
    ```
 
-6. **Web Search Fallback**
+4. **Web Search Fallback**
    ```
    User: "What are the latest treatment guidelines for CKD?"
    Assistant: [Clinical] Using web search for current information...
    [Shows results labeled as (Web Source)]
    ```
 
-7. **View Logs**
+5. **View Logs**
    - Check `logs/app.log` for full interaction trace
    - Or use `/logs` API endpoint
 
