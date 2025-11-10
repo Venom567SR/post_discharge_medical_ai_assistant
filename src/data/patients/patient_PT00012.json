@@ -1,0 +1,41 @@
+{
+  "patient_id": "PT00012",
+  "name": "Rohan Verma",
+  "discharge_date": "2025-11-01",
+  "admission_date": "2025-10-29",
+  "primary_diagnosis": "Glomerulonephritis",
+  "secondary_diagnoses": [
+    "Fluid Overload",
+    "Peripheral Neuropathy"
+  ],
+  "procedures": [
+    "Hemodialysis catheter placement",
+    "Blood transfusion",
+    "Ultrasound-guided kidney drainage"
+  ],
+  "medications": [
+    "Atorvastatin 20mg at bedtime",
+    "Lisinopril 10mg daily",
+    "Metoprolol 50mg twice daily",
+    "Insulin glargine 20 units at bedtime",
+    "Sevelamer 800mg with meals",
+    "Aspirin 81mg daily",
+    "Sodium bicarbonate 650mg three times daily"
+  ],
+  "warning_signs": [
+    "Irregular heartbeat or palpitations",
+    "Severe headache or vision changes",
+    "Blood in urine",
+    "Confusion or unusual drowsiness",
+    "Fever above 101°F (38.3°C)"
+  ],
+  "follow_up_instructions": [
+    "Schedule lab work for kidney function tests in 2 weeks",
+    "Weigh yourself daily and report sudden weight gain (>2 lbs in 24 hours)",
+    "Report any signs of infection immediately",
+    "Follow low-potassium diet",
+    "Restrict fluid intake to 1.5 liters per day"
+  ],
+  "next_appointment": "2025-11-12 at 2:00 PM",
+  "discharge_summary": "Patient Rohan Verma was admitted on 2025-10-29 with Glomerulonephritis. \nDuring hospitalization, patient was managed with Atorvastatin 20mg at bedtime, Lisinopril 10mg daily, Metoprolol 50mg twice daily. \nProcedures performed included Hemodialysis catheter placement, Blood transfusion, Ultrasound-guided kidney drainage.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

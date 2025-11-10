@@ -1,0 +1,33 @@
+{
+  "patient_id": "PT00003",
+  "name": "Krishna Reddy",
+  "discharge_date": "2025-10-14",
+  "admission_date": "2025-10-12",
+  "primary_diagnosis": "Urinary Tract Infection with Complications",
+  "secondary_diagnoses": [
+    "Hypertension"
+  ],
+  "procedures": [],
+  "medications": [
+    "Amlodipine 5mg daily",
+    "Atorvastatin 20mg at bedtime",
+    "Furosemide 40mg twice daily",
+    "Sodium bicarbonate 650mg three times daily",
+    "Metoprolol 50mg twice daily",
+    "Lisinopril 10mg daily"
+  ],
+  "warning_signs": [
+    "Irregular heartbeat or palpitations",
+    "Blood in urine",
+    "Severe headache or vision changes",
+    "Uncontrolled blood pressure readings"
+  ],
+  "follow_up_instructions": [
+    "Monitor blood pressure daily and log readings",
+    "Keep follow-up appointments with nephrologist",
+    "Schedule lab work for kidney function tests in 2 weeks",
+    "Limit sodium intake to 2000mg per day"
+  ],
+  "next_appointment": "2025-11-02 at 2:00 PM",
+  "discharge_summary": "Patient Krishna Reddy was admitted on 2025-10-12 with Urinary Tract Infection with Complications. \nDuring hospitalization, patient was managed with Amlodipine 5mg daily, Atorvastatin 20mg at bedtime, Furosemide 40mg twice daily. \nNo procedures were performed.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

@@ -1,0 +1,40 @@
+{
+  "patient_id": "PT00001",
+  "name": "Neha Kulkarni",
+  "discharge_date": "2025-09-12",
+  "admission_date": "2025-09-05",
+  "primary_diagnosis": "Post-Transplant Follow-up",
+  "secondary_diagnoses": [
+    "Anemia"
+  ],
+  "procedures": [
+    "Peritoneal dialysis catheter insertion",
+    "Ultrasound-guided kidney drainage"
+  ],
+  "medications": [
+    "Metformin 500mg twice daily",
+    "Lisinopril 10mg daily",
+    "Insulin glargine 20 units at bedtime",
+    "Atorvastatin 20mg at bedtime",
+    "Metoprolol 50mg twice daily",
+    "Sevelamer 800mg with meals",
+    "Aspirin 81mg daily",
+    "Sodium bicarbonate 650mg three times daily"
+  ],
+  "warning_signs": [
+    "Uncontrolled blood pressure readings",
+    "Difficulty breathing or chest pain",
+    "Decreased urine output or dark-colored urine",
+    "Blood in urine"
+  ],
+  "follow_up_instructions": [
+    "Keep follow-up appointments with nephrologist",
+    "Monitor blood pressure daily and log readings",
+    "Attend dialysis sessions as scheduled (3 times per week)",
+    "Take all medications as prescribed",
+    "Restrict fluid intake to 1.5 liters per day",
+    "Follow low-potassium diet"
+  ],
+  "next_appointment": "2025-10-01 at 2:00 PM",
+  "discharge_summary": "Patient Neha Kulkarni was admitted on 2025-09-05 with Post-Transplant Follow-up. \nDuring hospitalization, patient was managed with Metformin 500mg twice daily, Lisinopril 10mg daily, Insulin glargine 20 units at bedtime. \nProcedures performed included Peritoneal dialysis catheter insertion, Ultrasound-guided kidney drainage.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

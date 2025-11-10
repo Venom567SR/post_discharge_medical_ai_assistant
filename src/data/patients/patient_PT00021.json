@@ -1,0 +1,33 @@
+{
+  "patient_id": "PT00021",
+  "name": "Krishna Mishra",
+  "discharge_date": "2025-09-23",
+  "admission_date": "2025-09-14",
+  "primary_diagnosis": "Kidney Stones (Nephrolithiasis)",
+  "secondary_diagnoses": [
+    "Congestive Heart Failure"
+  ],
+  "procedures": [
+    "Kidney stone removal (ureteroscopy)"
+  ],
+  "medications": [
+    "Sodium bicarbonate 650mg three times daily",
+    "Sevelamer 800mg with meals",
+    "Amlodipine 5mg daily"
+  ],
+  "warning_signs": [
+    "Severe headache or vision changes",
+    "Fever above 101°F (38.3°C)",
+    "Decreased urine output or dark-colored urine",
+    "Uncontrolled blood pressure readings"
+  ],
+  "follow_up_instructions": [
+    "Weigh yourself daily and report sudden weight gain (>2 lbs in 24 hours)",
+    "Attend dialysis sessions as scheduled (3 times per week)",
+    "Follow low-potassium diet",
+    "Monitor blood pressure daily and log readings",
+    "Schedule lab work for kidney function tests in 2 weeks"
+  ],
+  "next_appointment": "2025-10-05 at 2:00 PM",
+  "discharge_summary": "Patient Krishna Mishra was admitted on 2025-09-14 with Kidney Stones (Nephrolithiasis). \nDuring hospitalization, patient was managed with Sodium bicarbonate 650mg three times daily, Sevelamer 800mg with meals, Amlodipine 5mg daily. \nProcedures performed included Kidney stone removal (ureteroscopy).\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

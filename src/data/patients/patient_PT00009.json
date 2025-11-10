@@ -1,0 +1,35 @@
+{
+  "patient_id": "PT00009",
+  "name": "Sahil Patel",
+  "discharge_date": "2025-09-10",
+  "admission_date": "2025-09-05",
+  "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+  "secondary_diagnoses": [
+    "Coronary Artery Disease",
+    "Type 2 Diabetes Mellitus",
+    "Hyperparathyroidism",
+    "Hypertension"
+  ],
+  "procedures": [
+    "Ultrasound-guided kidney drainage"
+  ],
+  "medications": [
+    "Sevelamer 800mg with meals",
+    "Aspirin 81mg daily",
+    "Calcitriol 0.25mcg daily"
+  ],
+  "warning_signs": [
+    "Decreased urine output or dark-colored urine",
+    "Severe headache or vision changes",
+    "Blood in urine",
+    "Fever above 101°F (38.3°C)"
+  ],
+  "follow_up_instructions": [
+    "Limit sodium intake to 2000mg per day",
+    "Weigh yourself daily and report sudden weight gain (>2 lbs in 24 hours)",
+    "Keep follow-up appointments with nephrologist",
+    "Restrict fluid intake to 1.5 liters per day"
+  ],
+  "next_appointment": "2025-10-08 at 2:00 PM",
+  "discharge_summary": "Patient Sahil Patel was admitted on 2025-09-05 with Chronic Kidney Disease Stage 3. \nDuring hospitalization, patient was managed with Sevelamer 800mg with meals, Aspirin 81mg daily, Calcitriol 0.25mcg daily. \nProcedures performed included Ultrasound-guided kidney drainage.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

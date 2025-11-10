@@ -1,0 +1,36 @@
+{
+  "patient_id": "PT00011",
+  "name": "Aditya Gupta",
+  "discharge_date": "2025-10-21",
+  "admission_date": "2025-10-14",
+  "primary_diagnosis": "Glomerulonephritis",
+  "secondary_diagnoses": [
+    "Hyperparathyroidism",
+    "Coronary Artery Disease"
+  ],
+  "procedures": [
+    "Kidney stone removal (ureteroscopy)"
+  ],
+  "medications": [
+    "Sevelamer 800mg with meals",
+    "Lisinopril 10mg daily",
+    "Sodium bicarbonate 650mg three times daily",
+    "Metformin 500mg twice daily"
+  ],
+  "warning_signs": [
+    "Fever above 101°F (38.3°C)",
+    "Confusion or unusual drowsiness",
+    "Blood in urine"
+  ],
+  "follow_up_instructions": [
+    "Report any signs of infection immediately",
+    "Attend dialysis sessions as scheduled (3 times per week)",
+    "Take all medications as prescribed",
+    "Monitor blood pressure daily and log readings",
+    "Schedule lab work for kidney function tests in 2 weeks",
+    "Limit sodium intake to 2000mg per day",
+    "Keep follow-up appointments with nephrologist"
+  ],
+  "next_appointment": "2025-11-04 at 2:00 PM",
+  "discharge_summary": "Patient Aditya Gupta was admitted on 2025-10-14 with Glomerulonephritis. \nDuring hospitalization, patient was managed with Sevelamer 800mg with meals, Lisinopril 10mg daily, Sodium bicarbonate 650mg three times daily. \nProcedures performed included Kidney stone removal (ureteroscopy).\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

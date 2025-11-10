@@ -1,0 +1,43 @@
+{
+  "patient_id": "PT00005",
+  "name": "Kavya Gupta",
+  "discharge_date": "2025-09-19",
+  "admission_date": "2025-09-16",
+  "primary_diagnosis": "Urinary Tract Infection with Complications",
+  "secondary_diagnoses": [
+    "Coronary Artery Disease",
+    "Peripheral Neuropathy",
+    "Congestive Heart Failure"
+  ],
+  "procedures": [
+    "Hemodialysis catheter placement",
+    "Ultrasound-guided kidney drainage",
+    "Arteriovenous fistula creation"
+  ],
+  "medications": [
+    "Calcitriol 0.25mcg daily",
+    "Furosemide 40mg twice daily",
+    "Epoetin alfa injection weekly",
+    "Amlodipine 5mg daily",
+    "Atorvastatin 20mg at bedtime",
+    "Lisinopril 10mg daily",
+    "Metoprolol 50mg twice daily"
+  ],
+  "warning_signs": [
+    "Severe nausea or vomiting",
+    "Difficulty breathing or chest pain",
+    "Severe swelling in legs, ankles, or face",
+    "Decreased urine output or dark-colored urine",
+    "Severe headache or vision changes"
+  ],
+  "follow_up_instructions": [
+    "Limit sodium intake to 2000mg per day",
+    "Weigh yourself daily and report sudden weight gain (>2 lbs in 24 hours)",
+    "Attend dialysis sessions as scheduled (3 times per week)",
+    "Report any signs of infection immediately",
+    "Restrict fluid intake to 1.5 liters per day",
+    "Monitor blood pressure daily and log readings"
+  ],
+  "next_appointment": "2025-10-09 at 2:00 PM",
+  "discharge_summary": "Patient Kavya Gupta was admitted on 2025-09-16 with Urinary Tract Infection with Complications. \nDuring hospitalization, patient was managed with Calcitriol 0.25mcg daily, Furosemide 40mg twice daily, Epoetin alfa injection weekly. \nProcedures performed included Hemodialysis catheter placement, Ultrasound-guided kidney drainage, Arteriovenous fistula creation.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

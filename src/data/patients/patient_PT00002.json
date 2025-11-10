@@ -1,0 +1,39 @@
+{
+  "patient_id": "PT00002",
+  "name": "Krishna Joshi",
+  "discharge_date": "2025-08-12",
+  "admission_date": "2025-08-03",
+  "primary_diagnosis": "Diabetic Nephropathy",
+  "secondary_diagnoses": [
+    "Hypertension",
+    "Coronary Artery Disease",
+    "Peripheral Neuropathy",
+    "Hyperparathyroidism"
+  ],
+  "procedures": [],
+  "medications": [
+    "Lisinopril 10mg daily",
+    "Sodium bicarbonate 650mg three times daily",
+    "Amlodipine 5mg daily",
+    "Atorvastatin 20mg at bedtime",
+    "Metoprolol 50mg twice daily",
+    "Insulin glargine 20 units at bedtime"
+  ],
+  "warning_signs": [
+    "Severe nausea or vomiting",
+    "Irregular heartbeat or palpitations",
+    "Confusion or unusual drowsiness",
+    "Severe headache or vision changes",
+    "Blood in urine",
+    "Severe swelling in legs, ankles, or face"
+  ],
+  "follow_up_instructions": [
+    "Keep follow-up appointments with nephrologist",
+    "Attend dialysis sessions as scheduled (3 times per week)",
+    "Take all medications as prescribed",
+    "Report any signs of infection immediately",
+    "Weigh yourself daily and report sudden weight gain (>2 lbs in 24 hours)"
+  ],
+  "next_appointment": "2025-09-05 at 2:00 PM",
+  "discharge_summary": "Patient Krishna Joshi was admitted on 2025-08-03 with Diabetic Nephropathy. \nDuring hospitalization, patient was managed with Lisinopril 10mg daily, Sodium bicarbonate 650mg three times daily, Amlodipine 5mg daily. \nNo procedures were performed.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

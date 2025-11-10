@@ -1,0 +1,38 @@
+{
+  "patient_id": "PT00029",
+  "name": "Vivaan Yadav",
+  "discharge_date": "2025-08-15",
+  "admission_date": "2025-08-10",
+  "primary_diagnosis": "Post-Transplant Follow-up",
+  "secondary_diagnoses": [
+    "Anemia",
+    "Peripheral Neuropathy"
+  ],
+  "procedures": [
+    "Central line placement",
+    "Kidney biopsy",
+    "Hemodialysis catheter placement"
+  ],
+  "medications": [
+    "Epoetin alfa injection weekly",
+    "Insulin glargine 20 units at bedtime",
+    "Sodium bicarbonate 650mg three times daily",
+    "Furosemide 40mg twice daily",
+    "Amlodipine 5mg daily"
+  ],
+  "warning_signs": [
+    "Blood in urine",
+    "Severe swelling in legs, ankles, or face",
+    "Severe headache or vision changes",
+    "Decreased urine output or dark-colored urine",
+    "Confusion or unusual drowsiness"
+  ],
+  "follow_up_instructions": [
+    "Attend dialysis sessions as scheduled (3 times per week)",
+    "Limit sodium intake to 2000mg per day",
+    "Follow low-potassium diet",
+    "Schedule lab work for kidney function tests in 2 weeks"
+  ],
+  "next_appointment": "2025-09-10 at 2:00 PM",
+  "discharge_summary": "Patient Vivaan Yadav was admitted on 2025-08-10 with Post-Transplant Follow-up. \nDuring hospitalization, patient was managed with Epoetin alfa injection weekly, Insulin glargine 20 units at bedtime, Sodium bicarbonate 650mg three times daily. \nProcedures performed included Central line placement, Kidney biopsy, Hemodialysis catheter placement.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

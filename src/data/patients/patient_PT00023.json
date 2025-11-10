@@ -1,0 +1,36 @@
+{
+  "patient_id": "PT00023",
+  "name": "Ananya Das",
+  "discharge_date": "2025-09-12",
+  "admission_date": "2025-09-10",
+  "primary_diagnosis": "Diabetic Nephropathy",
+  "secondary_diagnoses": [
+    "Hypertension",
+    "Peripheral Neuropathy"
+  ],
+  "procedures": [],
+  "medications": [
+    "Atorvastatin 20mg at bedtime",
+    "Metoprolol 50mg twice daily",
+    "Metformin 500mg twice daily",
+    "Sevelamer 800mg with meals"
+  ],
+  "warning_signs": [
+    "Severe headache or vision changes",
+    "Decreased urine output or dark-colored urine",
+    "Severe swelling in legs, ankles, or face",
+    "Difficulty breathing or chest pain",
+    "Uncontrolled blood pressure readings"
+  ],
+  "follow_up_instructions": [
+    "Monitor blood pressure daily and log readings",
+    "Attend dialysis sessions as scheduled (3 times per week)",
+    "Weigh yourself daily and report sudden weight gain (>2 lbs in 24 hours)",
+    "Schedule lab work for kidney function tests in 2 weeks",
+    "Limit sodium intake to 2000mg per day",
+    "Follow low-potassium diet",
+    "Restrict fluid intake to 1.5 liters per day"
+  ],
+  "next_appointment": "2025-10-05 at 2:00 PM",
+  "discharge_summary": "Patient Ananya Das was admitted on 2025-09-10 with Diabetic Nephropathy. \nDuring hospitalization, patient was managed with Atorvastatin 20mg at bedtime, Metoprolol 50mg twice daily, Metformin 500mg twice daily. \nNo procedures were performed.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

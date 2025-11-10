@@ -1,0 +1,41 @@
+{
+  "patient_id": "PT00018",
+  "name": "Arjun Reddy",
+  "discharge_date": "2025-08-30",
+  "admission_date": "2025-08-27",
+  "primary_diagnosis": "Hypertensive Nephrosclerosis",
+  "secondary_diagnoses": [
+    "Electrolyte Imbalance",
+    "Hyperparathyroidism",
+    "Congestive Heart Failure"
+  ],
+  "procedures": [
+    "Arteriovenous fistula creation",
+    "Central line placement",
+    "Kidney stone removal (ureteroscopy)"
+  ],
+  "medications": [
+    "Metformin 500mg twice daily",
+    "Sodium bicarbonate 650mg three times daily",
+    "Metoprolol 50mg twice daily",
+    "Epoetin alfa injection weekly",
+    "Lisinopril 10mg daily",
+    "Furosemide 40mg twice daily",
+    "Insulin glargine 20 units at bedtime"
+  ],
+  "warning_signs": [
+    "Uncontrolled blood pressure readings",
+    "Difficulty breathing or chest pain",
+    "Severe headache or vision changes",
+    "Blood in urine"
+  ],
+  "follow_up_instructions": [
+    "Weigh yourself daily and report sudden weight gain (>2 lbs in 24 hours)",
+    "Limit sodium intake to 2000mg per day",
+    "Schedule lab work for kidney function tests in 2 weeks",
+    "Follow low-potassium diet",
+    "Attend dialysis sessions as scheduled (3 times per week)"
+  ],
+  "next_appointment": "2025-09-27 at 2:00 PM",
+  "discharge_summary": "Patient Arjun Reddy was admitted on 2025-08-27 with Hypertensive Nephrosclerosis. \nDuring hospitalization, patient was managed with Metformin 500mg twice daily, Sodium bicarbonate 650mg three times daily, Metoprolol 50mg twice daily. \nProcedures performed included Arteriovenous fistula creation, Central line placement, Kidney stone removal (ureteroscopy).\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

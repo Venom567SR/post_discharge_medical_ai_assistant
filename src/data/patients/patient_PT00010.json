@@ -1,0 +1,36 @@
+{
+  "patient_id": "PT00010",
+  "name": "Rohan Kulkarni",
+  "discharge_date": "2025-11-06",
+  "admission_date": "2025-10-23",
+  "primary_diagnosis": "Post-Transplant Follow-up",
+  "secondary_diagnoses": [
+    "Hyperparathyroidism"
+  ],
+  "procedures": [
+    "Arteriovenous fistula creation",
+    "Peritoneal dialysis catheter insertion",
+    "Kidney biopsy"
+  ],
+  "medications": [
+    "Insulin glargine 20 units at bedtime",
+    "Metoprolol 50mg twice daily",
+    "Aspirin 81mg daily"
+  ],
+  "warning_signs": [
+    "Severe nausea or vomiting",
+    "Difficulty breathing or chest pain",
+    "Decreased urine output or dark-colored urine",
+    "Fever above 101°F (38.3°C)"
+  ],
+  "follow_up_instructions": [
+    "Restrict fluid intake to 1.5 liters per day",
+    "Keep follow-up appointments with nephrologist",
+    "Report any signs of infection immediately",
+    "Attend dialysis sessions as scheduled (3 times per week)",
+    "Take all medications as prescribed",
+    "Limit sodium intake to 2000mg per day"
+  ],
+  "next_appointment": "2025-12-01 at 2:00 PM",
+  "discharge_summary": "Patient Rohan Kulkarni was admitted on 2025-10-23 with Post-Transplant Follow-up. \nDuring hospitalization, patient was managed with Insulin glargine 20 units at bedtime, Metoprolol 50mg twice daily, Aspirin 81mg daily. \nProcedures performed included Arteriovenous fistula creation, Peritoneal dialysis catheter insertion, Kidney biopsy.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

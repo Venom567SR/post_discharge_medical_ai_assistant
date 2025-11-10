@@ -1,0 +1,38 @@
+{
+  "patient_id": "PT00026",
+  "name": "Arjun Joshi",
+  "discharge_date": "2025-09-28",
+  "admission_date": "2025-09-19",
+  "primary_diagnosis": "Diabetic Nephropathy",
+  "secondary_diagnoses": [
+    "Coronary Artery Disease",
+    "Hypertension"
+  ],
+  "procedures": [],
+  "medications": [
+    "Furosemide 40mg twice daily",
+    "Sevelamer 800mg with meals",
+    "Lisinopril 10mg daily",
+    "Amlodipine 5mg daily",
+    "Calcitriol 0.25mcg daily",
+    "Aspirin 81mg daily",
+    "Epoetin alfa injection weekly",
+    "Insulin glargine 20 units at bedtime"
+  ],
+  "warning_signs": [
+    "Decreased urine output or dark-colored urine",
+    "Irregular heartbeat or palpitations",
+    "Fever above 101°F (38.3°C)"
+  ],
+  "follow_up_instructions": [
+    "Report any signs of infection immediately",
+    "Restrict fluid intake to 1.5 liters per day",
+    "Take all medications as prescribed",
+    "Keep follow-up appointments with nephrologist",
+    "Attend dialysis sessions as scheduled (3 times per week)",
+    "Follow low-potassium diet",
+    "Schedule lab work for kidney function tests in 2 weeks"
+  ],
+  "next_appointment": "2025-10-17 at 2:00 PM",
+  "discharge_summary": "Patient Arjun Joshi was admitted on 2025-09-19 with Diabetic Nephropathy. \nDuring hospitalization, patient was managed with Furosemide 40mg twice daily, Sevelamer 800mg with meals, Lisinopril 10mg daily. \nNo procedures were performed.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

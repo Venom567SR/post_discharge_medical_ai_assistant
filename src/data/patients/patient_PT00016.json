@@ -1,0 +1,42 @@
+{
+  "patient_id": "PT00016",
+  "name": "Priya Das",
+  "discharge_date": "2025-09-01",
+  "admission_date": "2025-08-25",
+  "primary_diagnosis": "Glomerulonephritis",
+  "secondary_diagnoses": [
+    "Metabolic Acidosis",
+    "Hyperparathyroidism",
+    "Anemia",
+    "Coronary Artery Disease"
+  ],
+  "procedures": [
+    "Hemodialysis catheter placement",
+    "Peritoneal dialysis catheter insertion",
+    "Ultrasound-guided kidney drainage"
+  ],
+  "medications": [
+    "Sodium bicarbonate 650mg three times daily",
+    "Lisinopril 10mg daily",
+    "Atorvastatin 20mg at bedtime",
+    "Calcitriol 0.25mcg daily",
+    "Metoprolol 50mg twice daily"
+  ],
+  "warning_signs": [
+    "Confusion or unusual drowsiness",
+    "Decreased urine output or dark-colored urine",
+    "Severe headache or vision changes",
+    "Severe swelling in legs, ankles, or face"
+  ],
+  "follow_up_instructions": [
+    "Schedule lab work for kidney function tests in 2 weeks",
+    "Attend dialysis sessions as scheduled (3 times per week)",
+    "Take all medications as prescribed",
+    "Limit sodium intake to 2000mg per day",
+    "Weigh yourself daily and report sudden weight gain (>2 lbs in 24 hours)",
+    "Report any signs of infection immediately",
+    "Keep follow-up appointments with nephrologist"
+  ],
+  "next_appointment": "2025-09-15 at 2:00 PM",
+  "discharge_summary": "Patient Priya Das was admitted on 2025-08-25 with Glomerulonephritis. \nDuring hospitalization, patient was managed with Sodium bicarbonate 650mg three times daily, Lisinopril 10mg daily, Atorvastatin 20mg at bedtime. \nProcedures performed included Hemodialysis catheter placement, Peritoneal dialysis catheter insertion, Ultrasound-guided kidney drainage.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

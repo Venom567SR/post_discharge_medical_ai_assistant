@@ -1,0 +1,38 @@
+{
+  "patient_id": "PT00004",
+  "name": "Vivaan Joshi",
+  "discharge_date": "2025-10-25",
+  "admission_date": "2025-10-19",
+  "primary_diagnosis": "Polycystic Kidney Disease",
+  "secondary_diagnoses": [
+    "Coronary Artery Disease",
+    "Hypertension"
+  ],
+  "procedures": [],
+  "medications": [
+    "Lisinopril 10mg daily",
+    "Amlodipine 5mg daily",
+    "Aspirin 81mg daily",
+    "Sevelamer 800mg with meals",
+    "Calcitriol 0.25mcg daily",
+    "Epoetin alfa injection weekly",
+    "Furosemide 40mg twice daily",
+    "Insulin glargine 20 units at bedtime"
+  ],
+  "warning_signs": [
+    "Blood in urine",
+    "Severe swelling in legs, ankles, or face",
+    "Severe nausea or vomiting",
+    "Uncontrolled blood pressure readings",
+    "Difficulty breathing or chest pain",
+    "Severe headache or vision changes"
+  ],
+  "follow_up_instructions": [
+    "Monitor blood pressure daily and log readings",
+    "Follow low-potassium diet",
+    "Restrict fluid intake to 1.5 liters per day",
+    "Schedule lab work for kidney function tests in 2 weeks"
+  ],
+  "next_appointment": "2025-11-04 at 2:00 PM",
+  "discharge_summary": "Patient Vivaan Joshi was admitted on 2025-10-19 with Polycystic Kidney Disease. \nDuring hospitalization, patient was managed with Lisinopril 10mg daily, Amlodipine 5mg daily, Aspirin 81mg daily. \nNo procedures were performed.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

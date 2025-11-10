@@ -1,0 +1,34 @@
+{
+  "patient_id": "PT00013",
+  "name": "Aarav Reddy",
+  "discharge_date": "2025-08-23",
+  "admission_date": "2025-08-15",
+  "primary_diagnosis": "Diabetic Nephropathy",
+  "secondary_diagnoses": [
+    "Anemia",
+    "Fluid Overload",
+    "Electrolyte Imbalance"
+  ],
+  "procedures": [],
+  "medications": [
+    "Insulin glargine 20 units at bedtime",
+    "Metformin 500mg twice daily",
+    "Metoprolol 50mg twice daily",
+    "Aspirin 81mg daily"
+  ],
+  "warning_signs": [
+    "Severe nausea or vomiting",
+    "Uncontrolled blood pressure readings",
+    "Fever above 101°F (38.3°C)",
+    "Severe swelling in legs, ankles, or face"
+  ],
+  "follow_up_instructions": [
+    "Monitor blood pressure daily and log readings",
+    "Limit sodium intake to 2000mg per day",
+    "Report any signs of infection immediately",
+    "Restrict fluid intake to 1.5 liters per day",
+    "Take all medications as prescribed"
+  ],
+  "next_appointment": "2025-09-05 at 2:00 PM",
+  "discharge_summary": "Patient Aarav Reddy was admitted on 2025-08-15 with Diabetic Nephropathy. \nDuring hospitalization, patient was managed with Insulin glargine 20 units at bedtime, Metformin 500mg twice daily, Metoprolol 50mg twice daily. \nNo procedures were performed.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

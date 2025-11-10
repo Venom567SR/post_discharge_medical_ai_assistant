@@ -1,0 +1,37 @@
+{
+  "patient_id": "PT00020",
+  "name": "Krishna Choudhary",
+  "discharge_date": "2025-10-28",
+  "admission_date": "2025-10-24",
+  "primary_diagnosis": "Diabetic Nephropathy",
+  "secondary_diagnoses": [
+    "Coronary Artery Disease",
+    "Type 2 Diabetes Mellitus",
+    "Hypertension",
+    "Fluid Overload"
+  ],
+  "procedures": [
+    "Arteriovenous fistula creation",
+    "Peritoneal dialysis catheter insertion"
+  ],
+  "medications": [
+    "Aspirin 81mg daily",
+    "Insulin glargine 20 units at bedtime",
+    "Atorvastatin 20mg at bedtime"
+  ],
+  "warning_signs": [
+    "Fever above 101°F (38.3°C)",
+    "Difficulty breathing or chest pain",
+    "Severe swelling in legs, ankles, or face",
+    "Decreased urine output or dark-colored urine",
+    "Severe nausea or vomiting"
+  ],
+  "follow_up_instructions": [
+    "Monitor blood pressure daily and log readings",
+    "Attend dialysis sessions as scheduled (3 times per week)",
+    "Follow low-potassium diet",
+    "Report any signs of infection immediately"
+  ],
+  "next_appointment": "2025-11-21 at 2:00 PM",
+  "discharge_summary": "Patient Krishna Choudhary was admitted on 2025-10-24 with Diabetic Nephropathy. \nDuring hospitalization, patient was managed with Aspirin 81mg daily, Insulin glargine 20 units at bedtime, Atorvastatin 20mg at bedtime. \nProcedures performed included Arteriovenous fistula creation, Peritoneal dialysis catheter insertion.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

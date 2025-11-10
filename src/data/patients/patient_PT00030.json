@@ -1,0 +1,38 @@
+{
+  "patient_id": "PT00030",
+  "name": "Arjun Yadav",
+  "discharge_date": "2025-10-01",
+  "admission_date": "2025-09-26",
+  "primary_diagnosis": "Chronic Kidney Disease Stage 4",
+  "secondary_diagnoses": [
+    "Congestive Heart Failure",
+    "Metabolic Acidosis"
+  ],
+  "procedures": [
+    "Arteriovenous fistula creation",
+    "Ultrasound-guided kidney drainage",
+    "Blood transfusion"
+  ],
+  "medications": [
+    "Aspirin 81mg daily",
+    "Metformin 500mg twice daily",
+    "Amlodipine 5mg daily",
+    "Lisinopril 10mg daily",
+    "Calcitriol 0.25mcg daily",
+    "Sevelamer 800mg with meals"
+  ],
+  "warning_signs": [
+    "Severe headache or vision changes",
+    "Decreased urine output or dark-colored urine",
+    "Severe nausea or vomiting",
+    "Irregular heartbeat or palpitations"
+  ],
+  "follow_up_instructions": [
+    "Follow low-potassium diet",
+    "Attend dialysis sessions as scheduled (3 times per week)",
+    "Keep follow-up appointments with nephrologist",
+    "Weigh yourself daily and report sudden weight gain (>2 lbs in 24 hours)"
+  ],
+  "next_appointment": "2025-10-23 at 2:00 PM",
+  "discharge_summary": "Patient Arjun Yadav was admitted on 2025-09-26 with Chronic Kidney Disease Stage 4. \nDuring hospitalization, patient was managed with Aspirin 81mg daily, Metformin 500mg twice daily, Amlodipine 5mg daily. \nProcedures performed included Arteriovenous fistula creation, Ultrasound-guided kidney drainage, Blood transfusion.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

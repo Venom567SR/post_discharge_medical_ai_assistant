@@ -1,0 +1,38 @@
+{
+  "patient_id": "PT00006",
+  "name": "Riya Choudhary",
+  "discharge_date": "2025-10-01",
+  "admission_date": "2025-09-20",
+  "primary_diagnosis": "Urinary Tract Infection with Complications",
+  "secondary_diagnoses": [
+    "Anemia"
+  ],
+  "procedures": [
+    "Peritoneal dialysis catheter insertion",
+    "Central line placement",
+    "Hemodialysis catheter placement"
+  ],
+  "medications": [
+    "Epoetin alfa injection weekly",
+    "Metformin 500mg twice daily",
+    "Sodium bicarbonate 650mg three times daily",
+    "Insulin glargine 20 units at bedtime",
+    "Aspirin 81mg daily"
+  ],
+  "warning_signs": [
+    "Severe headache or vision changes",
+    "Difficulty breathing or chest pain",
+    "Uncontrolled blood pressure readings"
+  ],
+  "follow_up_instructions": [
+    "Attend dialysis sessions as scheduled (3 times per week)",
+    "Monitor blood pressure daily and log readings",
+    "Schedule lab work for kidney function tests in 2 weeks",
+    "Keep follow-up appointments with nephrologist",
+    "Limit sodium intake to 2000mg per day",
+    "Take all medications as prescribed",
+    "Weigh yourself daily and report sudden weight gain (>2 lbs in 24 hours)"
+  ],
+  "next_appointment": "2025-10-08 at 2:00 PM",
+  "discharge_summary": "Patient Riya Choudhary was admitted on 2025-09-20 with Urinary Tract Infection with Complications. \nDuring hospitalization, patient was managed with Epoetin alfa injection weekly, Metformin 500mg twice daily, Sodium bicarbonate 650mg three times daily. \nProcedures performed included Peritoneal dialysis catheter insertion, Central line placement, Hemodialysis catheter placement.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

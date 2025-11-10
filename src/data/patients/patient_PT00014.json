@@ -1,0 +1,43 @@
+{
+  "patient_id": "PT00014",
+  "name": "Arjun Reddy",
+  "discharge_date": "2025-10-25",
+  "admission_date": "2025-10-14",
+  "primary_diagnosis": "Glomerulonephritis",
+  "secondary_diagnoses": [
+    "Hypertension",
+    "Anemia",
+    "Metabolic Acidosis",
+    "Hyperparathyroidism"
+  ],
+  "procedures": [
+    "Central line placement",
+    "Arteriovenous fistula creation",
+    "Blood transfusion"
+  ],
+  "medications": [
+    "Calcitriol 0.25mcg daily",
+    "Atorvastatin 20mg at bedtime",
+    "Furosemide 40mg twice daily",
+    "Lisinopril 10mg daily"
+  ],
+  "warning_signs": [
+    "Uncontrolled blood pressure readings",
+    "Fever above 101°F (38.3°C)",
+    "Decreased urine output or dark-colored urine",
+    "Confusion or unusual drowsiness",
+    "Difficulty breathing or chest pain",
+    "Irregular heartbeat or palpitations"
+  ],
+  "follow_up_instructions": [
+    "Schedule lab work for kidney function tests in 2 weeks",
+    "Report any signs of infection immediately",
+    "Weigh yourself daily and report sudden weight gain (>2 lbs in 24 hours)",
+    "Keep follow-up appointments with nephrologist",
+    "Follow low-potassium diet",
+    "Attend dialysis sessions as scheduled (3 times per week)",
+    "Limit sodium intake to 2000mg per day"
+  ],
+  "next_appointment": "2025-11-16 at 2:00 PM",
+  "discharge_summary": "Patient Arjun Reddy was admitted on 2025-10-14 with Glomerulonephritis. \nDuring hospitalization, patient was managed with Calcitriol 0.25mcg daily, Atorvastatin 20mg at bedtime, Furosemide 40mg twice daily. \nProcedures performed included Central line placement, Arteriovenous fistula creation, Blood transfusion.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}

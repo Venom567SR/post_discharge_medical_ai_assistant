@@ -1,0 +1,38 @@
+# Core web framework
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+orjson==3.10.12
+dotenv==0.9.9
+
+# UI
+streamlit==1.40.2
+
+# LLM/Agents
+langchain==0.3.11
+langgraph==0.2.51
+langchain-core>=0.3.24,<0.4.0
+langchain-community==0.3.11
+
+# Vector stores and embeddings
+qdrant-client==1.12.1
+chromadb==0.5.23
+sentence-transformers==3.3.1
+
+# LLM SDKs
+google-generativeai==0.8.3
+groq>=0.12.0
+
+# Web search
+tavily-python==0.5.0
+
+# PDF and utilities
+pypdf==5.1.0
+python-dotenv==1.0.1
+loguru==0.7.3
+httpx==0.28.1
+requests==2.32.3
+
+# Additional utilities
+numpy==1.26.4
+torch==2.5.1

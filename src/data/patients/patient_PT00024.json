@@ -1,0 +1,36 @@
+{
+  "patient_id": "PT00024",
+  "name": "Aarav Mishra",
+  "discharge_date": "2025-08-20",
+  "admission_date": "2025-08-08",
+  "primary_diagnosis": "Polycystic Kidney Disease",
+  "secondary_diagnoses": [
+    "Type 2 Diabetes Mellitus",
+    "Fluid Overload",
+    "Anemia",
+    "Congestive Heart Failure"
+  ],
+  "procedures": [],
+  "medications": [
+    "Metformin 500mg twice daily",
+    "Metoprolol 50mg twice daily",
+    "Epoetin alfa injection weekly",
+    "Furosemide 40mg twice daily",
+    "Lisinopril 10mg daily"
+  ],
+  "warning_signs": [
+    "Confusion or unusual drowsiness",
+    "Severe swelling in legs, ankles, or face",
+    "Fever above 101°F (38.3°C)",
+    "Decreased urine output or dark-colored urine"
+  ],
+  "follow_up_instructions": [
+    "Weigh yourself daily and report sudden weight gain (>2 lbs in 24 hours)",
+    "Report any signs of infection immediately",
+    "Attend dialysis sessions as scheduled (3 times per week)",
+    "Schedule lab work for kidney function tests in 2 weeks",
+    "Keep follow-up appointments with nephrologist"
+  ],
+  "next_appointment": "2025-09-02 at 2:00 PM",
+  "discharge_summary": "Patient Aarav Mishra was admitted on 2025-08-08 with Polycystic Kidney Disease. \nDuring hospitalization, patient was managed with Metformin 500mg twice daily, Metoprolol 50mg twice daily, Epoetin alfa injection weekly. \nNo procedures were performed.\nPatient's condition improved and was stable at discharge. \nDischarged home with instructions to follow up with nephrologist and continue medications as prescribed. \nPatient educated on warning signs and dietary restrictions."
+}
